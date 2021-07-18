@@ -1,0 +1,13 @@
+{
+    "name": "icambridge/new-product",
+    "authors": [
+        {
+            "name": "Iain Cambridge",
+            "email": "iain@humblyarrogant.io"
+        }
+    ],
+    "require": {
+        "league/flysystem": "^2.1",
+        "league/flysystem-aws-s3-v3": "^2.1"
+    }
+}
